@@ -24,6 +24,10 @@ instance up and running.
 
 Type `vagrant halt` to halt the VM and vagrant up to bring it back up. 
 
+## Auths
+Login with admin/admin
+
+
 ## Updating It
 * Update manifests under puppet/manifests if you want to change the
 system configuration

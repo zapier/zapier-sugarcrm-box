@@ -1,4 +1,4 @@
-<?php /* Smarty version 2.6.11, created on 2013-01-07 21:24:32
+<?php /* Smarty version 2.6.11, created on 2013-01-07 22:12:20
          compiled from modules/Configurator/tpls/adminwizard.tpl */ ?>
 <?php require_once(SMARTY_CORE_DIR . 'core.load_plugins.php');
 smarty_core_load_plugins(array('plugins' => array(array('function', 'sugar_getjspath', 'modules/Configurator/tpls/adminwizard.tpl', 65, false),array('function', 'sugar_help', 'modules/Configurator/tpls/adminwizard.tpl', 117, false),array('function', 'sugar_translate', 'modules/Configurator/tpls/adminwizard.tpl', 158, false),array('function', 'html_options', 'modules/Configurator/tpls/adminwizard.tpl', 166, false),array('function', 'sugar_getimage', 'modules/Configurator/tpls/adminwizard.tpl', 375, false),)), $this); ?>
