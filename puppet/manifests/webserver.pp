@@ -1,4 +1,3 @@
-
 class webserver {
   import 'apache'
   class {'apache':
@@ -18,9 +17,6 @@ class webserver {
 }
 
 
-class add_apache_to_vagrant_group {
-User<| title == 'apache' |> { groups +> [ "vagrant" ] }
+exec { "add_apache_to_vagrant_group":
+  command => "/usr/sbin/usermod -a -G vagrant apache",
 }
-
-
-
