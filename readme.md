@@ -1,3 +1,5 @@
+*This project is no longer maintained. If you are interested in taking over the project, email [contact@zapier.com](mailto:contact@zapier.com).*
+
 # SugarCRM Vagrant Box
 This is a vagrant box to bootstrap virtual machines running sugarCRM
 locally for testing. 
